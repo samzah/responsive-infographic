@@ -17,6 +17,14 @@ html {
 }
 
 
+
+
+
+
+
+
+
+
 .ghost {
   transform: translateX(0);
   animation: slide 1s infinite linear alternate;
@@ -32,7 +40,3 @@ html {
     transform: translateY(10px);
   }
 }
-
-
-
-
